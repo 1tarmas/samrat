@@ -4,7 +4,7 @@
 Only the latest release receives security updates.
 
 ## Reporting Vulnerabilities
-Please report security issues to security@yourdomain.com
+Please report security issues to kumarsharwan015@gmail.com
 DO NOT create public GitHub issues for security vulnerabilities.
 
 ## Cryptography Details
