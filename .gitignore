@@ -1,0 +1,18 @@
+# Build directories
+build/
+*.vcxproj*
+*.sln
+*.user
+
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Qt Creator files
+*.pro.user
